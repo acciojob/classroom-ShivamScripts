@@ -22,10 +22,10 @@ public class Teacher {
     public int getNumberOfStudents(){
         return numberOfStudents;
     }
-    public voi setNumberOfStudents(int numberOfStudents){
+    public void setNumberOfStudents(int numberOfStudents){
         this.numberOfStudents = numberOfStudents;
     }
-    pubilc int getAge(){
+    public int getAge(){
         return age;
     }
     public void setAge(int age){
